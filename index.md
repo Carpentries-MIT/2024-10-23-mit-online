@@ -216,7 +216,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a few specific software packages installed (listed <a href="#setup">below</a>). High speed internet connection and Zoom access are necessary to participate in this online workshop. An optional mobile device or a secondary display is helpful with monitoring the instructor's screen and live coding simultaneously, but it's not required.
 </p>
 
 {% comment %}
@@ -342,7 +342,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://pad.carpentries.org/2024-10-23-mit">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
