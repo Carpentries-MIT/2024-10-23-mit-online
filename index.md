@@ -4,14 +4,14 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Carpentries @ MIT: Intro to Python/Git"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "160 Memorial Dr, Cambridge, MA 02142, United States | The Nexus 14S-130"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "42.359689"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-71.090542"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "October 23-25, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "October 24-25, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 am - 5:30pm ET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-10-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+startdate: 2024-10-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-10-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Paxton Lajoie", "Ece Turnator", "Phoebe Ayers", "Alejandro Paz", "Barbara Williams"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Claire Berman", "Erin Shives"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
