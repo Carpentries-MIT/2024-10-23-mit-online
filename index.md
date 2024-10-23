@@ -323,7 +323,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="https://pad.carpentries.org/2024-10-24-mit-python">collaborative document for the python lesson</a> and this <a href="https://pad.carpentries.org/2024-10-24-mit-git">collaborative document for the Git and GitHub lesson</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://pad.carpentries.org/2024-10-24-mit">collaborative document for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
